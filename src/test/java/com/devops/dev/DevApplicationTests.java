@@ -9,7 +9,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class DevApplicationTests {
 
 	@Test
-	void contextLoads() {
+	 contextLoads() {
 		assertEquals(true, true);
 	}
 
