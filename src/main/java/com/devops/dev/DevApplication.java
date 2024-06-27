@@ -11,7 +11,7 @@ public class DevApplication {
 
 	@GetMapping("/")
 	public String welcome() {
-		return "Hello World";
+		return "Welcome to my world";
 	}
 
 	public static void main(String[] args) {
